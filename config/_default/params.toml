@@ -1,0 +1,11 @@
+[header.title]
+  logo = "/logo.png"
+  name = "MediaNext"
+  typeit = false
+
+[home.profile]
+  title = ""
+  subtitle = ""
+
+[app]
+  noFavicon = true
