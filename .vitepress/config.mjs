@@ -20,6 +20,7 @@ export default defineConfig({
   srcDir: './content',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/logo-64x64.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Blog', link: 'https://blog.wangdm.cn' },

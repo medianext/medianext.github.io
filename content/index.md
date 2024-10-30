@@ -6,6 +6,9 @@ hero:
   name: "MediaNext"
   text: "MediaNext"
   tagline: My great project tagline
+  # image:
+  #   src: /MediaNext-Green-200x200.png
+  #   alt: MediaNext
   actions:
     - theme: brand
       text: View on GitHub
